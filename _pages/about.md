@@ -2,7 +2,7 @@
 # Ding Ao
 
 🎓 Master student in Control Science and Engineering at Beijing Institute of Technology
-📧 Email: [2390897650@qq.com](mailto:2390897650@qq.com)
+📧 Email: [creazed@126.com](mailto:creazed@126.com)
 
 ---
 
