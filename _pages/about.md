@@ -53,6 +53,3 @@
 
 > 📺 [Demo Video of ICRA RoboMaster 2022](https://www.bilibili.com/video/BV1nr4y1V7UN/?spm_id_from=333.337.search-card.all.click&vd_source=0b41613d898806582c3edac085957f71)
 
----
-
-如果你希望我也帮你写好一个 `README.md` 文件并配上合适的徽章、配色或介绍语，请告诉我！
